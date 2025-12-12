@@ -60,9 +60,6 @@ def make_art():
 timmy.home()
 make_art()'''
 
-
-
-
 '''Make a Spirograph
 def draw_spirograph(size_of_gap):
     for _ in range(int(360 / size_of_gap)):
